@@ -3,7 +3,7 @@ Snippet name(s) that generate code, good for modules.
 
 NOTE: I WILL NOT ADD THE ABILITY FOR USERS TO ADD / REMOVE SNIPPETS, ALL ARE HAND WRITTEN ATM.
 
---
+---
 
 User snippets are easy, type down a specific word and it generates code, type down `class` will generate a whole module of a class.
 
