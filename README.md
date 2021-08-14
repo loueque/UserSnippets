@@ -31,7 +31,3 @@ end
 
 return Class
 ```
-
-:)
-
-yea..
